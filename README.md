@@ -14,6 +14,12 @@
 
 <br>
 
+#### DB
+<img width="1000" alt="SemiDB" src="https://user-images.githubusercontent.com/76933763/113815699-97187c00-97ae-11eb-8abf-57b584666f03.png">
+
+https://www.erdcloud.com/d/oPKqs7rnBJ7Z4Ynf2 -> For more detail of DB
+
+
 #### UI
 
 Main page  
