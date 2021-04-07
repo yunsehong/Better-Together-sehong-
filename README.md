@@ -4,7 +4,13 @@
 ---
 
 #### Functions
-Lead and execute all Database design, Main page UI, Main page, Community board, Community board UI, Review page, Review page UI.
++ Lead and execute all Database design
++ Main page UI
++ Main page
++ Community board 
++ Community board UI
++ Review page
++ Review page UI
 
 <br>
 
