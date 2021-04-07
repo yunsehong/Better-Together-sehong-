@@ -68,6 +68,9 @@ Review edit popup
 <img width="330" alt="lkdj" src="https://user-images.githubusercontent.com/76933763/113814420-9979d680-97ac-11eb-9f51-62ce0d586cce.png">
 </kbd>
 
+[BetterTogether_._PPT.pdf](https://github.com/yunsehong/BetterTogether-sehong/files/6269467/BetterTogether_._PPT.pdf)
+<br>
+Code review ppt
 
 
 
