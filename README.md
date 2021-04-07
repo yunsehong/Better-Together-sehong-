@@ -1,4 +1,4 @@
-# Better-Together-sehong-
+# Better Together-sehong
 
 ### Plan and design the visible web service for the people who want to challenge for saving the money with motivation from other users.
 ---
